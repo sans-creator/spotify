@@ -20,12 +20,3 @@ A simple, responsive **Spotify Clone** built using **HTML and CSS**. This projec
 - 📱 Responsive design for mobile & tablet
 - 🎨 Clean UI with Spotify color scheme
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
-   cd spotify-clone
-
